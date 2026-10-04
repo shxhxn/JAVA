@@ -1,0 +1,6 @@
+# Compiled Java output, including files made by a direct javac command.
+.build/
+*.class
+
+# Temporary file created by the VS Code Code Runner extension.
+tempCodeRunnerFile.java
